@@ -1,3 +1,5 @@
+/* Code from https://devblogs.nvidia.com/easy-introduction-cuda-c-and-c/  */
+
 #include <stdio.h>
 
 __global__
